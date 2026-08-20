@@ -1,6 +1,6 @@
 # Karaaslan Labs
 
-Karaaslan Labs is an AI-native product company building useful, trustworthy and scalable digital products.
+AI-native product company building useful, trustworthy and scalable digital products.
 
 ## Current focus
 
