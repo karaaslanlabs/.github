@@ -1,0 +1,53 @@
+name: Bug report
+description: Report a reproducible problem
+title: ""
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a problem. Please avoid sharing secrets, credentials, private user data, or security-sensitive details in a public issue. Security vulnerabilities should be reported privately using the organization's SECURITY.md guidance.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What happened, and what did you expect instead?
+      placeholder: Describe the concrete behavior.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction
+      description: Give the smallest reliable steps, input, or example that reproduces the issue.
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit
+      description: Version, tag, commit SHA, or deployment context if known.
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, runtime, browser/device, package-manager or other relevant environment details.
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Logs, screenshots, stack traces, or other evidence. Redact sensitive data first.
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional context
+      description: Anything else that could help isolate the issue.
