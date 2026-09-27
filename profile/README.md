@@ -1,14 +1,22 @@
 # Karaaslan Labs
 
-AI-native product company building useful, trustworthy and scalable digital products.
+Technology company developing products, software systems, and new technology ventures across different problem areas.
 
-We are category-independent by design: we focus on real digital problems, validate value before scaling, and use AI and automation as leverage rather than as the company’s product category.
+We bring together software engineering, artificial intelligence, automation, research, and validation capabilities according to the problem being solved. We are not limited to a single industry or product category; new areas are evaluated through user need, technical feasibility, economic viability, and long-term sustainability.
 
-## Current focus
+## Current product
 
-Our current primary product is **GüvenCheck**, helping people assess digital content, understand possible risks, and decide what to do next across messages, links, websites and visual content.
+Our current product is **[GüvenCheck](https://github.com/karaaslanlabs/guvencheck)**, designed to help people assess suspicious digital content—including messages, links, websites, screenshots, and images—and understand the risk, why it matters, and what to do next.
+
+GüvenCheck is one product currently being developed by Karaaslan Labs; it does not represent the full range of areas in which the company may work.
+
+## How we work
+
+**Understand the need → validate key assumptions → develop the appropriate solution → monitor outcomes.**
+
+We use software, AI, automation, and research tools where they are appropriate, while considering reliability, maintainability, transparency, security, privacy, and human oversight.
 
 ## Links
 
 - Website: https://karaaslanlabs.com
-- Contact: contact@karaaslanlabs.com
+- Contact / collaboration: contact@karaaslanlabs.com
