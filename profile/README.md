@@ -10,6 +10,12 @@ Our current product is **[GüvenCheck](https://github.com/karaaslanlabs/guvenche
 
 GüvenCheck is one product currently being developed by Karaaslan Labs; it does not represent the full range of areas in which the company may work.
 
+## Open engineering
+
+**[KL Security Key](https://github.com/karaaslanlabs/kl-security-key)** is an open FIDO2/WebAuthn authenticator engineering and interoperability project. It documents work across embedded security, CTAP/WebAuthn behavior, authenticator identity, packed attestation, PKI, and Windows interoperability.
+
+KL Security Key is published as experimental engineering/research work, not as a FIDO-certified or commercial high-assurance security-key product.
+
 ## How we work
 
 **Understand the need → validate key assumptions → develop the appropriate solution → monitor outcomes.**
