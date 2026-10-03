@@ -8,9 +8,7 @@ We bring together software engineering, artificial intelligence, automation, res
 
 Our current product is **GüvenCheck**, a Türkiye-first personal digital trust, decision-support, and protection product. It is designed to help people assess suspicious digital content and consequential digital interactions, understand evidence and uncertainty, choose safer next steps, and use protection or recovery flows where applicable.
 
-GüvenCheck is currently developed privately within Karaaslan Labs. Its active product codebase, internal architecture, heuristics, trust/protection logic, product strategy, and Company OS-linked development context are not mirrored to public GitHub by default.
-
-The public/private boundary will be reassessed later when the product is sufficiently mature; no future open-source or publication model is implied at this stage.
+GüvenCheck is currently developed privately within Karaaslan Labs. Its proprietary product code, internal systems, and development context are not published to public GitHub.
 
 ## Open engineering
 
