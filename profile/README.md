@@ -4,17 +4,19 @@ Karaaslan Labs is a technology venture developing products, software systems, an
 
 We bring together software engineering, artificial intelligence, automation, research, and validation capabilities according to the problem being solved. We are not limited to a single industry or product category; new areas are evaluated through user need, technical feasibility, economic viability, and long-term sustainability.
 
-## Current product
+## Current product work
 
-Our current product is **GüvenCheck**, a Türkiye-first personal digital trust, decision-support, and protection product. It is designed to help people assess suspicious digital content and consequential digital interactions, understand evidence and uncertainty, choose safer next steps, and use protection or recovery flows where applicable.
+### GüvenCheck
 
-GüvenCheck is currently developed privately within Karaaslan Labs. Its proprietary product code, internal systems, and development context are not published to public GitHub.
+Our current primary consumer product is **GüvenCheck**, a Türkiye-first personal digital trust, decision-support, and protection product. It is designed to help people assess suspicious digital content and consequential digital interactions, understand evidence and uncertainty, choose safer next steps, and use protection or recovery flows where applicable.
 
-## Open engineering
+GüvenCheck is currently developed privately within Karaaslan Labs. Its product code, internal systems, and development environment are not published on public GitHub.
 
-**[KL Security Key](https://github.com/karaaslanlabs/kl-security-key)** is an open FIDO2/WebAuthn authenticator engineering and interoperability project. It documents work across embedded security, CTAP/WebAuthn behavior, authenticator identity, packed attestation, PKI, and Windows interoperability.
+### KL Security Key
 
-KL Security Key is published as experimental engineering/research work, not as a FIDO-certified or commercial high-assurance security-key product.
+**[KL Security Key](https://github.com/karaaslanlabs/kl-security-key)** is an open product-oriented FIDO2/WebAuthn authenticator engineering and interoperability effort. It documents work across embedded security, CTAP/WebAuthn behavior, authenticator identity, packed attestation, PKI, and Windows interoperability.
+
+KL Security Key is currently published as experimental engineering work and a technical reference surface. It is not presented as FIDO-certified commercial hardware, a high-assurance security token, or proof of universal relying-party acceptance.
 
 ## Open source & developer ecosystem
 
@@ -24,9 +26,9 @@ We treat upstream access as responsibility rather than permission to bypass norm
 
 ## How we work
 
-**Understand the need → validate key assumptions → develop the appropriate solution → monitor outcomes.**
+We ground decisions in current evidence, validate key assumptions, build the smallest appropriate solution, verify results, and improve from what the evidence shows.
 
-We use software, AI, automation, and research tools where they are appropriate, while considering reliability, maintainability, transparency, security, privacy, and human oversight.
+Software, AI, automation, and research are used as leverage where they fit the problem; they do not define the company as a single product category.
 
 ## Links
 
