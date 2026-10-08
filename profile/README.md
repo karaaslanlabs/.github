@@ -24,6 +24,8 @@ Founder-led open-source work includes co-maintainer responsibility on **[pi-comm
 
 We treat upstream access as responsibility rather than permission to bypass normal review: branch/PR/CI/review remains the default path for collaborative work.
 
+For specific public examples of merged upstream contributions and approved code reviews, see the [founder's GitHub evidence](https://github.com/karaaslanz#selected-open-source-evidence).
+
 ## How we work
 
 We ground decisions in current evidence, validate key assumptions, build the smallest appropriate solution, verify results, and improve from what the evidence shows.
