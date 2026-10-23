@@ -35,4 +35,5 @@ Software, AI, automation, and research are used as leverage where they fit the p
 ## Links
 
 - Website: https://karaaslanlabs.com
+- LinkedIn: https://www.linkedin.com/company/karaaslanlabs/
 - Contact / collaboration: contact@karaaslanlabs.com
